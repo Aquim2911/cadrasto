@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+
+.container {
+  margin-top: 5vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-color: whitesmoke;
+}
+
+#titulo {
+  color: red;
+}
+
+.label-float,
+.botao-entrar {
+  margin: 5px;
+}
+
+/* .justify-center {
+  display: flex;
+  justify-content: center;
+} */
